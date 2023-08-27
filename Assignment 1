@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C HEM SWAROOP SAI</title>
+    <!--<link rel="stylesheet" href="style.css"> -->
+    <style>
+      h1 {
+        font-size: 50px;
+      }
+      h2 {
+        margin-left: 50px;
+        font-size: 30px;
+      }
+      p {
+        margin-left: 50px;
+        font-size: 28px;
+      }
+      div.a {
+        text-align: center;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      
+      
+      .column {
+        flex: 35%;
+        padding: 5px;
+      }
+      
+      .row {
+        display: flex;
+      }
+      /* Clearfix (clear floats) */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      </style>
+</head>
+<body>
+    
+  <div class="a"> 
+    <h1>18CSE301J INFORMATION VISUALIZATION</h1>
+    <h1>C HEM SWAROOP SAI(RA2111003010692)</h1>
+ 
+    <h1> Assignment 1 </h1>
+    
+    <!-- <p>This is a group Abstract documentation part done in overleaf website on the topic of Import and export of Petroleum Products</p> -->
+
+    <object data= "Import_and_Export_of_Petroleum_Products (1).pdf#zoom=100" type="application/pdf" 
+                width="1000" 
+                height="900"> 
+        </object>
+    <br>
+    <p>Overleaf link of the report is attached here <a href="https://www.overleaf.com/project/64d73871f809f0bf33ae01fa">Click Here</a></p> 
+  
+    <h1> Assignment 2 </h1> 
+    <h2>TABLEAU PROJECT</h2>
+      <br>
+      
+    <p>Link of the project is attached here <a href="https://analytics.zoho.in/workspace/306068000000002014/view/306068000000002403" >Click Here</a></p> 
+  
+
+  <h1>Data Visualization using Gephi</h1>
+</div>
+<h2>Data Description</h2>
+<p>The Dataset used is about the usage of facebook in day to day life.</p>
+<h2>The SVG Image</h2>  
+<img src="A-Gephi-visualization-of-user-interaction-on-the-Facebook.ppm" />
+<h2>Refrences</h2>
+<p><a href="https://youtu.be/GXtbL8avpik" target="_blank" >1.Youtube Video For Gephi</a></p>
+
+  <h1>Research Paper</h1>
+</div>
+<h2>Description</h2>
+<p>Our team has taken the reference about Indias Petroleum imports from the article given by Bishwanath Goldar and Hiranya Mukhopadhyay and it helped in preparing an abstract for our project.</p>
+<p><a href="https://www.jstor.org/stable/4396902" >Research Paper Link</a></p>   
+<br>
+
+</body>
+</html>
